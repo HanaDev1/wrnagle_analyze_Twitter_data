@@ -1,5 +1,5 @@
-# Wrnagle and analyze Twitter data
- Wrangle **WeRateDogs** Twitter data to create interesting and trustworthy analyses and visualizations by using python. 
+# Wranagle and analyze Twitter data
+ Wrangle [WeRateDogs](https://twitter.com/dog_rates) Twitter data to create interesting and trustworthy analyses and visualizations by using python. 
 
 # Installation 
 
