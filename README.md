@@ -11,3 +11,9 @@
 * json
 * datetime 
 * os
+* tweepy
+* OAuthHandler
+* reduce
+* matplotlib.pyplot
+* seaborn
+* scipy
